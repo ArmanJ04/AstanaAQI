@@ -1,0 +1,18 @@
+item,value
+Final regression model,Ridge
+Final feature set,AR + Weather
+CV h=1 R2 mean ± std,0.284 ± 0.172
+Holdout MAE,15.312
+Holdout RMSE,20.765
+Holdout R2,0.487
+Holdout MedAE,11.599
+DM test p-value (vs RandomForest),0.4223
+Best CV event approach,HistGradientBoostingClassifierTuned
+Best holdout event approach,Regression@100
+Best holdout event F1,0.42
+Best holdout event threshold,100.0
+CV+ coverage overall,0.963
+CV+ coverage high-AQI regime,1.0
+CV+ avg interval width (AQI),94.62
+Train PM2.5 valid %,86.9
+Test PM2.5 valid %,29.1

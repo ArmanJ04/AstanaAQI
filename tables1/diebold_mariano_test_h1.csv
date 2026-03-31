@@ -1,0 +1,8 @@
+vs_model,mean_diff_mae,t_stat,p_value,significant_5pct
+WeightedRidge,4.2847,7.417,0.0,YES
+RandomForest,-0.4177,-0.803,0.4223,NO
+HistGradientBoosting,-0.2381,-0.491,0.6234,NO
+Naive,5.6402,6.096,0.0,YES
+Rolling7,3.5123,3.982,0.0001,YES
+LastValidAQI,5.9692,6.188,0.0,YES
+MonthlyMedian,5.9891,6.504,0.0,YES

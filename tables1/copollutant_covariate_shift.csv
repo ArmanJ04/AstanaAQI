@@ -1,0 +1,5 @@
+co_pollutant,train_miss_pct,test_miss_pct,delta_miss_pct
+pm10,41.1,67.7,26.6
+no2,58.0,3.4,-54.7
+so2,47.2,1.1,-46.2
+co,39.8,0.9,-38.9

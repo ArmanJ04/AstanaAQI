@@ -1,0 +1,8 @@
+,0
+rows_after_reindex,2835.0
+columns,19.0
+valid_pm25_aqi,2135.0
+missing_pm25_aqi,700.0
+share_valid_pm25_aqi_pct,75.31
+available_weather_features,13.0
+available_copollutants,4.0

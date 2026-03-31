@@ -1,0 +1,5 @@
+co_pollutant,train_missing_pct,test_missing_pct
+pm10,41.1,67.7
+no2,58.0,3.4
+so2,47.2,1.1
+co,39.8,0.9

@@ -1,0 +1,13 @@
+,0
+method,cross-conformal (CV+)
+cv_plus_splits,5
+calibration_residuals,1420
+nominal_coverage,0.9
+empirical_coverage_overall,0.963
+empirical_coverage_pred_low,0.959
+empirical_coverage_pred_high,1.0
+average_interval_width,94.617
+global_qhat,46.34
+qhat_pred_low_regime,42.136
+qhat_pred_high_regime,108.026
+n_test_high_regime,39
